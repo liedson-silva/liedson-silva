@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Liedson de Oliveira Silva 👋
 
 - 🔭 3º Semestre em Análise e Desenvolvimento de Sistemas na UNIP.
-- ⚡ Conhecimento basico em C e lógica de programação.
+- ⚡ Conhecimento avançado em C e lógica de programação.
 - 🤔 Atualmente estou aprendendo Programação Orientada a Objetos em C#
 
 <div>
