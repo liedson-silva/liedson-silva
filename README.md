@@ -2,16 +2,16 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Liedson De Oliveira Silva, tenho 21 anos e sou de São José Dos Campos - SP. Sou estudante de Análise e Desenvolvimento de Sistemas, com vontadede aprender e crescer na área de tecnologia. Busco aplicar as melhores práticas para criar projetos funcionais. Ainda sem experiência profissional, me dedico a projetos pessoais e cursos para me preparar para novas oportunidades. Sou proativo, curioso e apaixonado por tecnologia.
+Me chamo Liedson De Oliveira Silva, tenho 21 anos e sou de São José Dos Campos - SP. Sou estudante de Análise e Desenvolvimento de Sistemas, com vontade de aprender e crescer na área de tecnologia. Busco aplicar as melhores práticas para criar projetos funcionais. Ainda sem experiência profissional, me dedico a projetos pessoais e cursos para me preparar para novas oportunidades. Sou proativo, curioso e apaixonado por tecnologia.
 
 <div>
-  <a href="https://www.linkedin.com/in/liedson-silva-20b78b295" target="_blank">
+  <a href="https://www.linkedin.com/in/liedson-silva-20b78b295">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:liedsonsilva987@gmail.com" target="_blank">
+  <a href="mailto:liedsonsilva987@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://liedson.vercel.app" target="_blank">
+  <a href="https://liedson.vercel.app">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
